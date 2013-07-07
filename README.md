@@ -1,4 +1,4 @@
-# Book::Hash
+# BookHash
 
 TODO: Write a gem description
 
